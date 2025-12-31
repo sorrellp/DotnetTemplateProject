@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DiscordAuthentication/DiscordAuthentication.csproj" Id="d93a3100-f432-4098-b66c-2e464cf9ba2c" />
+  <Project Path="templates/AlchemistConsole/Alchemist.Console.csproj" />
+</Solution>
